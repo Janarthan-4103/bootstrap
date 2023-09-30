@@ -1,0 +1,83 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+.rent{
+    display: flex;
+}
+
+.menu1{
+    width: 28%;
+    height: 615px;
+    float: left;
+    background-color: rgb(51, 9, 91);
+}
+.top-left {
+    position: absolute;
+    top: 20px;
+    left: 25px;
+    font-weight: bold;
+    font-size: 25px;
+  }
+.log{
+    padding-left: 60%;
+    padding-top: 7%;
+    font-size: 110%;
+    -webkit-text-fill-color: aliceblue;
+}
+.re{
+    padding-top: 23%;
+    padding-left: 17%;
+    font-size: 55px;
+    font-weight: bold;
+    -webkit-text-fill-color: aliceblue;
+}
+.btn-outline-danger{
+    width: 45%;
+    height: 45px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: red;
+    /* width: fit-content; */
+    margin-left: 20%;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 2%;
+    -webkit-text-fill-color: aliceblue;
+}
+
+.img{
+    margin-top: 48%;
+    
+}
+.box{ 
+    width: 75%;
+    height: 180px;
+    margin-left: 13%;
+    position: relative;
+    top: -10%;
+    overflow: auto;
+    background-color: violet;
+    border-radius: 10px;
+}
+.loc{
+    font-weight: bold;
+    margin-top: 3%;
+    margin-left: 5%;
+    float: left;
+}
+.date{
+    margin-top: 11%;
+}
+.btn-outline-primary{
+    width: 25%;
+    height: 45px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 7%;
+    text-align: center;
+    padding-top: 2%;
+    -webkit-text-fill-color: aliceblue;
+}
+
